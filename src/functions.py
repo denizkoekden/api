@@ -9,6 +9,7 @@ import gevent
 import redis
 import logging
 from steam.client import SteamClient
+from steam.core.connection import WebsocketConnection
 from deta import Deta
 
 
@@ -32,6 +33,7 @@ def app_info(app_id):
 
                     logging.debug("Connecting via steamclient to steam api")
                     client = SteamClient()
+                    client.connection = WebsocketConnection()
                     client.anonymous_login()
                     client.verbose_debug = False
 

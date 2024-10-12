@@ -6,5 +6,5 @@ semver
 python-dotenv
 logfmter
 
-steam[client]
+https://github.com/njbooher/steam/archive/wsproto.zip
 gevent
