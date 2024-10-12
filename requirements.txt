@@ -8,3 +8,4 @@ logfmter
 
 https://github.com/njbooher/steam/archive/wsproto.zip
 gevent
+wsproto
