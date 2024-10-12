@@ -1,3 +1,7 @@
+# THIS BUILD IS EXPERIMENTAL
+
+IT USES WebsocketConnection as implemented in the wsproto branch from njbooher. If you just want to use the SteamCMD-API, you can use my dockerhub-Image (https://hub.docker.com/r/denizkoekden/steamcmd-api)
+
 [![Build Status](https://github.com/steamcmd/api/actions/workflows/deploy.yml/badge.svg)](https://github.com/steamcmd/api/actions)
 [![CodeFactor](https://www.codefactor.io/repository/github/steamcmd/api/badge)](https://www.codefactor.io/repository/github/steamcmd/api)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
