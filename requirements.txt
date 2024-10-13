@@ -9,5 +9,6 @@ logfmter
 https://github.com/denizkoekden/steam/archive/wsproto.zip
 gevent
 wsproto
+gevent
 gevent-eventemitter
 protobuf==3.20.3
