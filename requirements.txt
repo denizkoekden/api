@@ -6,7 +6,7 @@ semver
 python-dotenv
 logfmter
 
-https://github.com/njbooher/steam/archive/wsproto.zip
+https://github.com/denizkoekden/steam/archive/wsproto.zip
 gevent
 wsproto
 gevent-eventemitter
